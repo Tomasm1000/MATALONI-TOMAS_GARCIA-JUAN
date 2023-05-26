@@ -1,7 +1,7 @@
 package com.backend.test;
 
 import com.backend.dao.impl.OdontologoDaoH2;
-import com.backend.dao.service.OdontologoService;
+import com.backend.service.OdontologoService;
 import com.backend.entity.Odontologo;
 import org.junit.jupiter.api.Test;
 

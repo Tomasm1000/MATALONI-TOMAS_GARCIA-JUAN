@@ -1,4 +1,4 @@
-package com.backend.dao.service;
+package com.backend.service;
 
 import com.backend.dao.IDao;
 import com.backend.entity.Odontologo;
