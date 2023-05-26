@@ -1,1 +1,59 @@
 [2023-05-24 21:25:19] [INFO ] [Application:18] 📈 Tabla creada
+[2023-05-25 17:33:08] [INFO ] [Application:18] 📈 Tabla creada
+[2023-05-25 18:27:54] [INFO ] [Application:16] 🦷 Creamos todo
+[2023-05-25 18:36:20] [ERROR] [OdontologoDaoH2:75] 💣💥 Tuvimos un problema general Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-214]
+[2023-05-25 18:37:22] [ERROR] [OdontologoDaoH2:75] 💣💥 Tuvimos un problema general Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-214]
+[2023-05-25 18:40:31] [ERROR] [OdontologoDaoH2:75] 💣💥 Tuvimos un problema general Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-214]
+[2023-05-25 19:50:26] [INFO ] [Application:18] 🦷 Creamos todo
+[2023-05-25 19:57:35] [INFO ] [Application:18] 🦷 Creamos todo
+[2023-05-25 20:09:30] [INFO ] [OdontologoDaoH2:34] 👨‍⚕️ Se guardó al odontólogo 🦷 Odontólogo #4 | 👨‍⚕️ Número de Matrícula: 54175 | Nombre: Gloria | Apellido: Santana
+[2023-05-25 20:16:55] [INFO ] [OdontologoDaoH2:73] 🦷 Todos los odontólogos listados: [🦷 Odontólogo #1 | 👨‍⚕️ Número de Matrícula: 94673 | Nombre: Juanito | Apellido: López, 🦷 Odontólogo #2 | 👨‍⚕️ Número de Matrícula: 67842 | Nombre: Soledad | Apellido: Ramírez, 🦷 Odontólogo #3 | 👨‍⚕️ Número de Matrícula: 87795 | Nombre: Martín | Apellido: Acosta, 🦷 Odontólogo #4 | 👨‍⚕️ Número de Matrícula: 54175 | Nombre: Gloria | Apellido: Santana]
+[2023-05-25 20:17:11] [INFO ] [OdontologoDaoH2:73] 🦷 Todos los odontólogos listados: [🦷 Odontólogo #1 | 👨‍⚕️ Número de Matrícula: 94673 | Nombre: Juanito | Apellido: López, 🦷 Odontólogo #2 | 👨‍⚕️ Número de Matrícula: 67842 | Nombre: Soledad | Apellido: Ramírez, 🦷 Odontólogo #3 | 👨‍⚕️ Número de Matrícula: 87795 | Nombre: Martín | Apellido: Acosta, 🦷 Odontólogo #4 | 👨‍⚕️ Número de Matrícula: 54175 | Nombre: Gloria | Apellido: Santana]
+[2023-05-25 20:17:35] [INFO ] [OdontologoDaoH2:73] 🦷 Todos los odontólogos listados: [🦷 Odontólogo #1 | 👨‍⚕️ Número de Matrícula: 94673 | Nombre: Juanito | Apellido: López, 🦷 Odontólogo #2 | 👨‍⚕️ Número de Matrícula: 67842 | Nombre: Soledad | Apellido: Ramírez, 🦷 Odontólogo #3 | 👨‍⚕️ Número de Matrícula: 87795 | Nombre: Martín | Apellido: Acosta, 🦷 Odontólogo #4 | 👨‍⚕️ Número de Matrícula: 54175 | Nombre: Gloria | Apellido: Santana]
+[2023-05-25 20:18:09] [INFO ] [OdontologoDaoH2:73] 🦷 Todos los odontólogos listados: [🦷 Odontólogo #1 | 👨‍⚕️ Número de Matrícula: 94673 | Nombre: Juanito | Apellido: López, 🦷 Odontólogo #2 | 👨‍⚕️ Número de Matrícula: 67842 | Nombre: Soledad | Apellido: Ramírez, 🦷 Odontólogo #3 | 👨‍⚕️ Número de Matrícula: 87795 | Nombre: Martín | Apellido: Acosta, 🦷 Odontólogo #4 | 👨‍⚕️ Número de Matrícula: 54175 | Nombre: Gloria | Apellido: Santana]
+[2023-05-25 20:18:47] [INFO ] [OdontologoDaoH2:73] 🦷 Todos los odontólogos listados: [🦷 Odontólogo #1 | 👨‍⚕️ Número de Matrícula: 94673 | Nombre: Juanito | Apellido: López, 🦷 Odontólogo #2 | 👨‍⚕️ Número de Matrícula: 67842 | Nombre: Soledad | Apellido: Ramírez, 🦷 Odontólogo #3 | 👨‍⚕️ Número de Matrícula: 87795 | Nombre: Martín | Apellido: Acosta, 🦷 Odontólogo #4 | 👨‍⚕️ Número de Matrícula: 54175 | Nombre: Gloria | Apellido: Santana]
+[2023-05-25 20:26:24] [INFO ] [OdontologoDaoH2:73] 🦷 Todos los odontólogos listados: [🦷 Odontólogo #1 | 👨‍⚕️ Número de Matrícula: 94673 | Nombre: Juanito | Apellido: López, 🦷 Odontólogo #2 | 👨‍⚕️ Número de Matrícula: 67842 | Nombre: Soledad | Apellido: Ramírez, 🦷 Odontólogo #3 | 👨‍⚕️ Número de Matrícula: 87795 | Nombre: Martín | Apellido: Acosta, 🦷 Odontólogo #4 | 👨‍⚕️ Número de Matrícula: 54175 | Nombre: Gloria | Apellido: Santana]
+[2023-05-25 20:38:23] [INFO ] [OdontologoDaoH2:74] 🦷 Listando todos los odontólogos: [
+🦷 Odontólogo [🆔 ID: 1 | 👨‍⚕️ Número de Matrícula: 94673 | ⭐ Nombre: Juanito | ⭐ Apellido: López], 
+🦷 Odontólogo [🆔 ID: 2 | 👨‍⚕️ Número de Matrícula: 67842 | ⭐ Nombre: Soledad | ⭐ Apellido: Ramírez], 
+🦷 Odontólogo [🆔 ID: 3 | 👨‍⚕️ Número de Matrícula: 87795 | ⭐ Nombre: Martín | ⭐ Apellido: Acosta], 
+🦷 Odontólogo [🆔 ID: 4 | 👨‍⚕️ Número de Matrícula: 54175 | ⭐ Nombre: Gloria | ⭐ Apellido: Santana]]
+[2023-05-25 20:40:21] [INFO ] [OdontologoDaoH2:74] 🦷 Listando todos los odontólogos: [
+🦷 Odontólogo [🆔 ID: 1 | 👨‍⚕️ Número de Matrícula: 94673 | 💬 Nombre: Juanito | ⭐ Apellido: López], 
+🦷 Odontólogo [🆔 ID: 2 | 👨‍⚕️ Número de Matrícula: 67842 | 💬 Nombre: Soledad | ⭐ Apellido: Ramírez], 
+🦷 Odontólogo [🆔 ID: 3 | 👨‍⚕️ Número de Matrícula: 87795 | 💬 Nombre: Martín | ⭐ Apellido: Acosta], 
+🦷 Odontólogo [🆔 ID: 4 | 👨‍⚕️ Número de Matrícula: 54175 | 💬 Nombre: Gloria | ⭐ Apellido: Santana]]
+[2023-05-25 20:40:49] [INFO ] [OdontologoDaoH2:74] 🦷 Listando todos los odontólogos: [
+🦷 Odontólogo { 🆔 ID: 1 | 👨‍⚕️ Número de Matrícula: 94673 | 💬 Nombre: Juanito | ⭐ Apellido: López }, 
+🦷 Odontólogo { 🆔 ID: 2 | 👨‍⚕️ Número de Matrícula: 67842 | 💬 Nombre: Soledad | ⭐ Apellido: Ramírez }, 
+🦷 Odontólogo { 🆔 ID: 3 | 👨‍⚕️ Número de Matrícula: 87795 | 💬 Nombre: Martín | ⭐ Apellido: Acosta }, 
+🦷 Odontólogo { 🆔 ID: 4 | 👨‍⚕️ Número de Matrícula: 54175 | 💬 Nombre: Gloria | ⭐ Apellido: Santana }]
+[2023-05-25 21:04:23] [INFO ] [OdontologoDaoH2:74] 🦷 Listando todos los odontólogos: [
+🦷 Odontólogo { 🆔 ID: 1 | 👨‍⚕️ Número de Matrícula: 94673 | 💬 Nombre: Juanito | ⭐ Apellido: López }, 
+🦷 Odontólogo { 🆔 ID: 2 | 👨‍⚕️ Número de Matrícula: 67842 | 💬 Nombre: Soledad | ⭐ Apellido: Ramírez }, 
+🦷 Odontólogo { 🆔 ID: 3 | 👨‍⚕️ Número de Matrícula: 87795 | 💬 Nombre: Martín | ⭐ Apellido: Acosta }, 
+🦷 Odontólogo { 🆔 ID: 4 | 👨‍⚕️ Número de Matrícula: 54175 | 💬 Nombre: Gloria | ⭐ Apellido: Santana }]
+[2023-05-25 21:06:52] [INFO ] [OdontologoDaoEnMemoria:27] 🦷 Listando todos los odontólogos: []
+[2023-05-25 21:09:06] [INFO ] [OdontologoDaoEnMemoria:21] 👨‍⚕️ Se guardó al odontólogo 
+🦷 Odontólogo { 🆔 ID: 1 | 👨‍⚕️ Número de Matrícula: 94673 | 💬 Nombre: Juanito | ⭐ Apellido: López }
+[2023-05-25 21:09:06] [INFO ] [OdontologoDaoEnMemoria:21] 👨‍⚕️ Se guardó al odontólogo 
+🦷 Odontólogo { 🆔 ID: 2 | 👨‍⚕️ Número de Matrícula: 67842 | 💬 Nombre: Soledad | ⭐ Apellido: Ramírez }
+[2023-05-25 21:09:06] [INFO ] [OdontologoDaoEnMemoria:21] 👨‍⚕️ Se guardó al odontólogo 
+🦷 Odontólogo { 🆔 ID: 3 | 👨‍⚕️ Número de Matrícula: 87795 | 💬 Nombre: Martín | ⭐ Apellido: Acosta }
+[2023-05-25 21:09:06] [INFO ] [OdontologoDaoEnMemoria:27] 🦷 Listando todos los odontólogos: [
+🦷 Odontólogo { 🆔 ID: 1 | 👨‍⚕️ Número de Matrícula: 94673 | 💬 Nombre: Juanito | ⭐ Apellido: López }, 
+🦷 Odontólogo { 🆔 ID: 2 | 👨‍⚕️ Número de Matrícula: 67842 | 💬 Nombre: Soledad | ⭐ Apellido: Ramírez }, 
+🦷 Odontólogo { 🆔 ID: 3 | 👨‍⚕️ Número de Matrícula: 87795 | 💬 Nombre: Martín | ⭐ Apellido: Acosta }]
+[2023-05-25 21:56:16] [INFO ] [OdontologoDaoH2:76] 🦷 Listando todos los odontólogos: [
+🦷 Odontólogo { 🆔 ID: 1 | 👨‍⚕️ Número de Matrícula: 94673 | 💬 Nombre: Juanito | ⭐ Apellido: López }, 
+🦷 Odontólogo { 🆔 ID: 2 | 👨‍⚕️ Número de Matrícula: 67842 | 💬 Nombre: Soledad | ⭐ Apellido: Ramírez }, 
+🦷 Odontólogo { 🆔 ID: 3 | 👨‍⚕️ Número de Matrícula: 87795 | 💬 Nombre: Martín | ⭐ Apellido: Acosta }, 
+🦷 Odontólogo { 🆔 ID: 4 | 👨‍⚕️ Número de Matrícula: 54175 | 💬 Nombre: Gloria | ⭐ Apellido: Santana }]
+[2023-05-25 21:56:27] [INFO ] [OdontologoDaoH2:35] 👨‍⚕️ Se guardó al odontólogo 
+🦷 Odontólogo { 🆔 ID: 5 | 👨‍⚕️ Número de Matrícula: 54175 | 💬 Nombre: Gloria | ⭐ Apellido: Santana }
+[2023-05-25 21:57:08] [INFO ] [Application:17] 🦷 Creamos todo tu SQL
+[2023-05-25 21:57:17] [INFO ] [OdontologoDaoH2:35] 👨‍⚕️ Se guardó al odontólogo 
+🦷 Odontólogo { 🆔 ID: 4 | 👨‍⚕️ Número de Matrícula: 54175 | 💬 Nombre: Gloria | ⭐ Apellido: Santana }
